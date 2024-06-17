@@ -1,0 +1,27 @@
+{
+  "name": "zapload",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript library for delay loading (lazyload) of images, video, script, object, and iframe.",
+  "main": "zapload.js",
+  "module": "zapload.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OzikPutraJarwo/ZapLoad.git"
+  },
+  "keywords": [
+    "javascript",
+    "javascript-library",
+    "lazyload",
+    "defer",
+    "load"
+  ],
+  "author": "Ozik Putra Jarwo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OzikPutraJarwo/ZapLoad/issues"
+  },
+  "homepage": "https://github.com/OzikPutraJarwo/ZapLoad#readme"
+}
