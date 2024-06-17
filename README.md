@@ -47,6 +47,26 @@ function doSomething(){
 }
 ```
 
+## Installation
+
+Install with npm:
+
+```bash
+npm i zapload
+```
+
+Using CDN:
+
+```HTML
+<script src="https://unpkg.com/zapload/zapload.js"></script>
+```
+
+Or the minified version:
+
+```HTML
+<script src="https://unpkg.com/zapload/zapload.min.js"></script>
+```
+
 ## License
 
 [MIT](http://www.opensource.org/licenses/mit-license.php)
