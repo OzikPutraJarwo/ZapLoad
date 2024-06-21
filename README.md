@@ -2,6 +2,8 @@
 
 ZapLoad is a very lightweight (~2.9KB) JavaScript library for delaying the loading (also known as lazyload) of various `src` elements such as `img`, `video`, `script`, `object`, and `iframe`.
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![npm version](https://img.shields.io/npm/v/zapload.svg?color=c73434)
+
 ## Key Features
 
 - Lightweight, only sized about 2.9KB and 1.7KB for the minified version.
